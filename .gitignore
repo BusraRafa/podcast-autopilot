@@ -1,0 +1,24 @@
+venv/
+.env
+all/
+test_output2/
+
+
+
+#audio test files
+Canadian Mother Outraged Over Doctor Euthanizing MENTALLY ILL Son!.mp3
+Colbert ATTACKS CBS Over Pulled Interview With James Talarico!.mp3
+Klout Part 1 - Under 30 minutes.mp3
+Klout Part 2.mp3
+
+
+
+#python files
+ffmpeg_test.py
+phase_3_test.py
+shortener.py
+test.py
+test_main.py
+test3 4.py
+test42 1.py
+test42.py
